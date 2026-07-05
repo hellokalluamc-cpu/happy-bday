@@ -2,10 +2,10 @@
  * Global Configuration Variables & Text Array
  */
 const phrases = [
-    "To my absolutely favorite person... ✨",
-    "They say to love your bestie, and well... <span class='highlight'>I lowkey love you</span>. 💖",
-    "You are the star in <span class='highlight'>my</span> galaxy, literally! 🚀🌌",
-    "To more years of <span class='highlight'>lowkey loving</span> our friendship... and you. 💫🎂"
+    "To the person who knows me best... ✨",
+    "They say a true bestie is family, and well... <span class='highlight'>you mean the world to me</span>. 💖",
+    "You're the absolute star of <span class='highlight'>our</span> chaotic universe! 🚀🌌",
+    "To more years of <span class='highlight'>unconditional friendship</span>... always here for you. 💫🎂"
 ];
 
 // Document Elements Connection
