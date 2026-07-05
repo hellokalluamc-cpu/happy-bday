@@ -2,12 +2,11 @@
  * Global Configuration Variables & Text Array
  */
 const phrases = [
-    "To the person who knows me best... ✨",
-    "They say a true bestie is family, and well... <span class='highlight'>you mean the world to me</span>. 💖",
-    "You're the absolute star of <span class='highlight'>our</span> chaotic universe! 🚀🌌",
-    "To more years of <span class='highlight'>unconditional friendship</span>... always here for you. 💫🎂"
+    "To an extraordinary human being... ✨",
+    "May your day be written in the stars 🌌",
+    "Wishing you limitless joy and adventure 🚀",
+    "Let's celebrate another trip around the sun! 🎂"
 ];
-
 // Document Elements Connection
 const spaceCanvas = document.getElementById('space-canvas');
 const ctx = spaceCanvas.getContext('2d');
