@@ -25,7 +25,7 @@ let isGiftOpened = false; // Strictly blocks multiple box explosion glitches
 /**
  * 1. AUTOMATIC SOFT-VOLUME AUDIO STREAM CONTROLLER
  */
-bgMusic.volume = 0.2; // Sets initial value securely to 20% volume boundary 
+bgMusic.volume = 0.3; // Sets initial value securely to 20% volume boundary 
 
 function startAutoplay() {
     if (bgMusic.paused) {
